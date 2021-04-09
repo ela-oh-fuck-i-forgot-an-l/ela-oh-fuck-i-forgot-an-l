@@ -1,3 +1,5 @@
+btw i use gitlab
+
 - 👋 Hi, I’m @ela-oh-fuck-i-forgot-an-l
 - 👀 I’m interested in walls
 - 🌱 I’m currently learning rust and go and I feel like heaven
